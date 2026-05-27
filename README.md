@@ -1,4 +1,4 @@
-# PythonLearningFidelitas
+# Introducción a la Programación Básica
 
 Este repositorio contiene ejercicios y prácticas de Python realizados durante el curso universitario en la Universidad Fidelitas.
 
@@ -8,12 +8,12 @@ Aquí encontrarás ejemplos básicos de programación en Python, organizados por
 
 ## Estructura del repositorio
 
-- `ProyectoFinal/` - Proyecto final del curso.
 - `Semana8/` - Ejercicios de estructuras de decisión y repetición.
 - `Semana9/` - Ejercicios adicionales y prácticas de programación.
 - `Semana10/` - Ejercicios de unidimensionales y otros problemas.
 - `Semana11/` - Ejercicios de matrices bidimensionales.
 - `Semana13/` - Caso evaluado y ejercicio de repaso.
+- `ProyectoFinal/` - Proyecto final del curso.
 
 ## Tecnologías
 
