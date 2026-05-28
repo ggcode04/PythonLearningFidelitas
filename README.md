@@ -1,4 +1,4 @@
-# Introducción a la Programación Básica
+# Aprendiendo Python — Universidad Fidelitas
 
 Este repositorio contiene ejercicios y prácticas de Python realizados durante el curso universitario en la Universidad Fidelitas.
 
